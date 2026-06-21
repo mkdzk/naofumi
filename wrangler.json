@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "naofumi",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "00a1331e-bbcd-4de0-9893-03bfc0d4d60f",
+			"database_name": "Naofumi"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
